@@ -1,0 +1,7 @@
+/**
+\mainpage ToolZ
+\author Marcel Zoll
+
+\section overview Overview
+This project is a collection of libaries for common use in IceCube's icetray software.
+Please look refer to the sphinx and inline doxygen documentation.
